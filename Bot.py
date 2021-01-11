@@ -9,7 +9,7 @@ import youtube_dl
 
 from random import choice
 
-TOKEN = 'NjkyMzMzMDM2NzUwMTEwNzgy.Xns_Yg.M5WCcE0ikHaXnRmiaGjPMQGS3bw'
+TOKEN = ''
 
 client = commands.Bot(command_prefix = 'r!')
 client.remove_command("help")
